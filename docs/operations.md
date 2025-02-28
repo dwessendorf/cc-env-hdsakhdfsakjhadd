@@ -20,4 +20,7 @@ confluent login
 confluent environment list
 
 # Select this environment
-confluent environment use <ENVIRONMENT_ID>
+confluent environment use env-jz3o3w
+```
+
+You can use the environment ID listed above.
